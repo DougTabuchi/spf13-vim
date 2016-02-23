@@ -1,2 +1,4 @@
 Bundle 'jlanzarotta/bufexplorer'
+Bundle "b4winckler/vim-objc"
+Bundle 'eraserhd/vim-ios.git'
 
